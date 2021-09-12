@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Duho Choi, who's currently a freshman and learning C++ programming in Digipen regular course at Keimyung University. 
+
+I'm from Daegu, Republic of Korea. I lived for about 20 years in this City. 
+
+I love playing games, especially online RPG games. 
+
+📫 Contact me to : 
+- Hodu.choi3457@gmail.com
+- dhc3450@naver.com
 
 <!--
 **Duho-Choi/Duho-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
