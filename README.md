@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Duho Choi, who's currently a freshman and learning C++ programming in Digipen regular course at Keimyung University. 
+I'm Duho Choi. I'm currently sophomore and learning C++, OpenGL programming stuff in Digipen regular course at Keimyung University. 
 
 I'm from Daegu, Republic of Korea. I lived for about 20 years in this City. 
 
